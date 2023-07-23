@@ -53,3 +53,8 @@ The model training process involves fine-tuning a pre-trained convolutional neur
 ## Evaluation
 
 After training the model, the script evaluates the model's performance by predicting emotions on a separate test dataset. It calculates the accuracy of the predictions and displays a confusion matrix to visualize the results.
+
+## Acknowledgments 
+
+The sample dataset used in this project was sourced from Kaggle.
+The code examples were adapted from various open-source tutorials and documentation.
